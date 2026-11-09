@@ -1,0 +1,17 @@
+Hi {{name}},
+
+The 20th Asian Games — Aichi-Nagoya 2026 — brought together athletes from 45 Asian countries to celebrate sport, culture, and unity. From record-breaking performances to inspiring comebacks, this edition of the Games showcased the very best of Asia's sporting spirit.
+
+In this issue of Asia Sports Insider:
+- Full Games recap: Dates, host cities, and participating nations
+- Sports Spotlight: Athletics, Badminton, Swimming, Hockey, and Shooting
+- India Spotlight: How Indian athletes performed across the Games
+- Beyond the Medals: What the Asian Games mean for cultural exchange
+- A quick quiz to test what you remember!
+
+We've attached the full newsletter as a PDF — take a look and enjoy the read!
+
+Stronger together, brighter Asia.
+
+Best regards,
+{{company}}
